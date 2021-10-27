@@ -15,6 +15,6 @@ https://github.com/3kh0
 --------
 Rockpods
 https://github.com/Rockpods
-I will add credit if i find anymore that are not his and belong to other people
 
-None of these games are mine and belong to there respected developer of the game
+All of these games go to the respected developers of the game i do not own these nor do i sell them to make profit of anykind
+
