@@ -12,4 +12,7 @@ If they are playing games during class that is on you.
 These games are not mine and they belong to 
 3kh0
 https://github.com/3kh0
+--------
+Rockpods
+https://github.com/Rockpods
 I will add credit if i find anymore that are not his and belong to other people
