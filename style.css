@@ -109,6 +109,18 @@ img {
   background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/sands_of_the_coliseum.png);
 }
 
+.card__image--learntofly2{
+  background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/learntofly2.jpg);
+}
+
+.card__image--learntofly3{
+  background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/learntofly3.jpg);
+}
+
+.card__image--learntoflyidle{
+  background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/learntoflyidle.jpg);
+}
+
 .card__title {
   color: #696969;
   font-size: 1.25rem;
