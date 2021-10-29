@@ -101,10 +101,13 @@ img {
   background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/HoboPrison.jpg);
 }
 
-.card__image--idont{
-  background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/download.jpg);
+.card__image--learntofly{
+  background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/learntofly.jpg);
 }
 
+.card__image--Sotc{
+  background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/sands_of_the_coliseum.png);
+}
 
 .card__title {
   color: #696969;
