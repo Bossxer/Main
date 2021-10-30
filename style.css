@@ -117,10 +117,6 @@ img {
   background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/learntofly3.jpg);
 }
 
-.card__image--learntoflyidle{
-  background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/learntoflyidle.jpg);
-}
-
 .card__title {
   color: #696969;
   font-size: 1.25rem;
