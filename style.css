@@ -93,6 +93,11 @@ img {
     padding-top: 66.6%;
   }
 }
+
+.card__image--PlacerHolder{
+  background-image: url(https://via.placeholder.com/600x400?text=PlacerHolder%20image);
+}
+
 .card__image--Hobo{
   background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/Hobo.jpg);
 }
