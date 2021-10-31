@@ -95,7 +95,7 @@ img {
 }
 
 .card__image--PlacerHolder{
-  background-image: url(https://via.placeholder.com/600x400?text=PlacerHolder%20image);
+  background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/placeholder.png);
 }
 
 .card__image--Hobo{
