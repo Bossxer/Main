@@ -102,21 +102,21 @@ img {
 }
 ----- gotta add
 .card__image--HoboHell{
-  background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/HoboPrison.jpg);
+  background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/hobohell.jpg);
 }
 
 .card__image--HoboWanted{
-  background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/HoboPrison.jpg);
+  background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/hobowanted.jpg);
 }
 
-.card__image--HoboPrison{
-  background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/HoboPrison.jpg);
+.card__image--HoboHeaven{
+  background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/hoboheaven.jpg);
 }
 
 .card__image--HoboTotalWar{
-  background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/HoboPrison.jpg);
+  background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/hobototalwar.jpg);
 }
-----
+
 .card__image--learntofly{
   background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/learntofly.jpg);
 }
@@ -126,89 +126,97 @@ img {
 }
 
 .card__image--DuckLife1{
-  background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/learntofly2.jpg);
+  background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/ducklife.jpg);
 }
 
 .card__image--DuckLife2{
-  background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/learntofly2.jpg);
+  background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/ducklife2.jpg);
 }
 
 .card__image--DuckLife3{
-  background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/learntofly2.jpg);
+  background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/ducklife3.jpg);
 }
 
 .card__image--DuckLife4{
-  background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/learntofly2.jpg);
+  background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/ducklife4.jpg);
 }
 
 .card__image--ArmedWithWings{
-  background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/learntofly2.jpg);
+  background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/armedwithwings.jpg);
 }
 
 
 .card__image--ArmedWithWings2{
-  background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/learntofly2.jpg);
+  background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/armedwithwings2.jpg);
 }
 
 
 .card__image--ArmedWithWings3{
-  background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/learntofly2.jpg);
+  background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/armedwithwings3.jpg);
 }
 
 .card__image--BloonsTD1{
-  background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/learntofly2.jpg);
+  background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/bloontowerdefense.jpg);
 }
 
 .card__image--BloonsTD2{
-  background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/learntofly2.jpg);
+  background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/bloontowerdefense2.jpg);
 }
 
 .card__image--Sonny{
-  background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/learntofly2.jpg);
+  background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/sonny.jpg);
 }
 
 .card__image--BoosWhack{
-  background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/learntofly2.jpg);
+  background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/whackyourboss.jpg);
 }
 
 .card__image--Bloxorz{
-  background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/learntofly2.jpg);
+  background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/bloxorz.jpg);
 }
 
 .card__image--IndestructoTank{
-  background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/learntofly2.jpg);
+  background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/indestructotank.jpg);
 }
 
 .card__image--InteractiveBuddy{
-  background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/learntofly2.jpg);
+  background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/interactivebuddy.jpg);
 }
 
 .card__image--SonicTheHedgehod{
-  background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/learntofly2.jpg);
+  background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/sonicthehedgehog.png);
 }
 
 .card__image--UnfairMario{
-  background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/learntofly2.jpg);
+  background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/unfairmario.jpg);
 }
 
 .card__image--TheImpossibleQuiz{
-  background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/learntofly2.jpg);
+  background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/TheImpossibleQuiz.jpg);
 }
 
 .card__image--EscapingThePrision{
-  background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/learntofly2.jpg);
+  background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/Escapingtheprision.jpg);
+}
+
+.card__image--StealingTheDiamond{
+  background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/StealingtheDiamond.jpg);
 }
 
 .card__image--SuperMario63{
-  background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/learntofly2.jpg);
+  background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/supermario63.jpg);
+}
+
+.card__image--MarioCombat{
+  background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/mariocombat.jpg);
 }
 
 .card__image--TheWorldHardestGame{
-  background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/learntofly2.jpg);
+  background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/theworldshardestgame.png);
 }
 
 .card__image--UltimateFlashSonic{
-  background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/learntofly2.jpg);
+  background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/UltimateFlashSonic.png);
 }
 
 .card__title {
