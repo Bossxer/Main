@@ -105,17 +105,10 @@ img {
   background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/learntofly.jpg);
 }
 
-.card__image--Sotc{
-  background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/sands_of_the_coliseum.png);
-}
-
 .card__image--learntofly2{
   background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/learntofly2.jpg);
 }
 
-.card__image--learntofly3{
-  background-image: url(https://raw.githubusercontent.com/Bossxer/Main/main/img/learntofly3.jpg);
-}
 
 .card__title {
   color: #696969;
