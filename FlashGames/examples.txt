@@ -3,8 +3,8 @@
 
 
 <head>
-	 <title>The Impossible Quiz</title>
-
+	 <title>Name</title>
+	 <link rel="icon" type="image/png" sizes="512x512" href="https://raw.githubusercontent.com/Bossxer/Main/main/img/icon.png">
 </head>
 
   <body>
