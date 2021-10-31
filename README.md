@@ -1,5 +1,5 @@
 # Main
-Just a unblocked games wbesite for school
+Just a unblocked games website for school
 
 ## Notice
 
